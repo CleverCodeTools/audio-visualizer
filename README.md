@@ -1,4 +1,4 @@
-# yt-siri-audio-visualizer
+# audio-visualizer
 
 This is a simple project that I use for many YouTube videos!
 

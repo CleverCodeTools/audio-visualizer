@@ -1,2 +1,31 @@
 .DS_Store
 .vscode/
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Coverage
+coverage/
+
+# Editors
+.idea/
+
+# TypeScript incremental build info (if enabled)
+*.tsbuildinfo
